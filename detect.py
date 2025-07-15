@@ -7,7 +7,7 @@ import os
 model = YOLO("yolov8n.pt")  # Pre-trained model
 
 # Image path (put your own animal image here)
-image_path = r"C:\Users\KARINA RAHATE\OneDrive\Desktop\wildlife_monitoring\Animal images\tiger.jpg"
+image_path = r"sample_image.jpg"
 
 
 # Perform detection
